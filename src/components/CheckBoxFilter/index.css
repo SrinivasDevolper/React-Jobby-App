@@ -1,0 +1,14 @@
+.checkBox-cont {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.checkBox-cont label {
+  margin-left: 12px;
+  color: #cbd5e1;
+}
+
+.checkBox-cont label:hover {
+  color: #4f46e5;
+  cursor: pointer;
+}

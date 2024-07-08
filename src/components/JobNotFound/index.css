@@ -1,0 +1,20 @@
+.not-found-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  height: 100vh;
+}
+
+.not-found-cont h1 {
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin-top: 15px;
+}
+
+.not-found-cont p {
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin-top: 15px;
+}
